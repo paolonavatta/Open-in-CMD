@@ -1,5 +1,6 @@
 <h1 align="center">Open in CMD (OIC)</h1>
 <p align="center">
+<img alt="License: GPL-3.0" src="https://img.shields.io/github/license/navattapaolo/Open-in-CMD">
 <img alt="Static Badge" src="https://img.shields.io/badge/Version%20-%201.0%20-%20black">
 </p>
 
